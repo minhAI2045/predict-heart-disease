@@ -10,6 +10,7 @@ from math import sqrt
 import matplotlib.pyplot as plt
 import seaborn as sn
 
+
 data = pd.read_csv("diabetes.csv")
 # result = data.corr()
 # plt.figure(figsize=(8, 8))
