@@ -64,7 +64,7 @@ The following points were the objective of the project . If you are looking for 
 ###  Model Evaluation 
 - RandomForestClassifier
 
-![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/RandomForestClassifier.png> | width=100)
+![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/RandomForestClassifier.png> | width=50)
 
                   precision    recall  f1-score   support
 
