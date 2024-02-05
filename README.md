@@ -84,8 +84,8 @@ The following points were the objective of the project . If you are looking for 
            1       0.63      0.56      0.60        55
 
     accuracy                           0.73       154
-   macro avg       0.70      0.69      0.70       154
-weighted avg       0.72      0.73      0.72       154
+    macro avg      0.70      0.69      0.70       154
+    weighted avg   0.72      0.73      0.72       154
 
 
 
