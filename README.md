@@ -61,7 +61,6 @@ The following points were the objective of the project . If you are looking for 
 ![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/RandomForestClassifier.png>)
 
  precision    recall  f1-score   support
-
            0       0.79      0.79      0.79        99
            1       0.62      0.62      0.62        55
 
