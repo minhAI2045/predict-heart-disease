@@ -53,7 +53,7 @@ The following points were the objective of the project . If you are looking for 
 
 
 ### CorrelationMatrix
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/CorrelationMatrixPlot.jpg" width=370>
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/Correlation_Matrix.png" width=570>
 
 
 
