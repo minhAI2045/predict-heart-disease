@@ -46,8 +46,9 @@ The following points were the objective of the project . If you are looking for 
 
 
 ### Data Visualizations
-
+- Histogram
 ![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/Screenshot 2024-02-05 210530.png>)
+- Density plot
 ![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/Screenshot 2024-02-05 211117.png>)
 
 
