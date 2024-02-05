@@ -1,5 +1,5 @@
 ## Diabetes Prediction Application using Deep Learning  
-
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/SVC.png" width=170>
 
 
 ### Table of Content
