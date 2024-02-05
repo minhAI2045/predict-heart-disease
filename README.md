@@ -1,5 +1,4 @@
 ## Diabetes Prediction Application using Deep Learning  
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/SVC.png" width=170>
 
 
 ### Table of Content
@@ -77,7 +76,7 @@ The following points were the objective of the project . If you are looking for 
 
 - Support Vector Machine
 
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/SVC.png" width=500>
+<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes/blob/main/SVC.png" width=370>
 
 
 
