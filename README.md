@@ -76,7 +76,9 @@ The following points were the objective of the project . If you are looking for 
 
 
 - Support Vector Machine
+
 ![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/SVC.png>)
+
 
               precision    recall  f1-score   support
 
