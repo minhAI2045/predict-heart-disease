@@ -54,7 +54,7 @@ The following points were the objective of the project . If you are looking for 
 
 
 ### CorrelationMatrix
-![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/CorrelationMatrixPlot.jpg>)
+           ![alt text](<https://github.com/minhAI2045/Predicting-diabetes/raw/main/CorrelationMatrixPlot.jpg>)
 
 
 ###  Model Evaluation 
